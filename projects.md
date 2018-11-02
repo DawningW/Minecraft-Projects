@@ -4,6 +4,7 @@
 - [Hello Minecraft! Launcher](https://github.com/huanghongxun/HMCL)
 - [MultiMC5](https://github.com/MultiMC/MultiMC5)
 - [Prismaillya Minecraft Launcher](https://github.com/Prisma-illya/PMCL)
+- [NsisoLauncher](https://github.com/Nsiso/NsisoLauncher)
 - [JMCCC](https://github.com/to2mbn/JMCCC)
 - [SMCCC](https://github.com/SeaLoong/SMCCC)
 - [QGettingStarted](https://github.com/BluePlumStudio/QGettingStarted)
@@ -13,7 +14,9 @@
 - [SppAnimationMaker](https://github.com/SPGoding/SppAnimationMaker)
 - [MineAudio](https://github.com/tremblestarman/MineAudio)
 - [chunky](https://github.com/llbit/chunky)
+- [Block2Json](https://github.com/tremblestarman/Block2Json)
 - [blessing-skin-server](https://github.com/printempw/blessing-skin-server)
+- [SpigotLauncher](https://github.com/Mouse0w0/SpigotLauncher)
 - [Minecraft-Console-Client](https://github.com/ORelio/Minecraft-Console-Client)
 - [MCUpdater](https://github.com/bitkwan/MCUpdater)
 - [authlib-injector](https://github.com/yushijinhun/authlib-injector)
@@ -21,6 +24,7 @@
 - [php-Minecraft-3D-skin](https://github.com/supermamie/php-Minecraft-3D-skin)
 - [skinview3d](https://github.com/bs-community/skinview3d)
 - [PHP-Minecraft-Stat-Ranking](https://github.com/Mayomi/PHP-Minecraft-Stat-Ranking)
+- [Minecraft-Highlight](https://github.com/kasuganosoras/Minecraft-Highlight)
 ## 模组
 ### API
 - [Minecraft Forge](https://github.com/MinecraftForge/MinecraftForge)
@@ -72,6 +76,8 @@
 - [MCPMappingViewer](https://github.com/bspkrs/MCPMappingViewer)
 ## 插件
 ### API
+- [cuberite](https://github.com/cuberite/cuberite)
+- [CatServer](https://github.com/Luohuayu/CatServer)
 - [PocketMine-MP](https://github.com/pmmp/PocketMine-MP)
 - [DragonProxy](https://github.com/DragonetMC/DragonProxy)
 ### 国外
